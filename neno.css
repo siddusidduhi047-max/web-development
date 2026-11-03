@@ -1,0 +1,123 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #f5f3eb;
+    color: #333333;
+    text-align: center;
+}
+
+/* Header */
+header {
+    background-color: #204b3c;
+    color: white;
+    padding: 20px;
+}
+
+header h1 {
+    color: #f4d58d;
+}
+
+nav {
+    margin-top: 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 12px;
+}
+
+/* Welcome Section */
+#home {
+    background-color: #dce9df;
+    padding: 30px;
+    margin: 20px;
+}
+
+/* Search Section */
+.search {
+    background-color: white;
+    padding: 20px;
+    margin: 20px;
+}
+
+input, select, button {
+    padding: 10px;
+    margin: 5px;
+}
+
+button {
+    background-color: #204b3c;
+    color: white;
+    border: none;
+}
+
+/* Property Cards */
+#properties {
+    padding: 15px;
+}
+
+.card {
+    background-color: white;
+    width: 270px;
+    padding: 15px;
+    margin: 15px;
+    display: inline-block;
+    vertical-align: top;
+    text-align: left;
+    border: 1px solid #d5dfd5;
+}
+
+.card img {
+    width: 100%;
+    height: 160px;
+}
+
+.card h3 {
+    color: #204b3c;
+}
+
+.card p {
+    margin: 10px 0;
+}
+
+/* Comparison Table */
+#compare {
+    background-color: white;
+    padding: 20px;
+    margin: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid #cccccc;
+    padding: 12px;
+}
+
+th {
+    background-color: #204b3c;
+    color: #f4d58d;
+}
+
+tr:nth-child(even) {
+    background-color: #edf3ed;
+}
+
+/* Contact Section */
+#contact {
+    background-color: #dce9df;
+    padding: 20px;
+    margin: 20px;
+}
+
+/* Footer */
+footer {
+    background-color: #204b3c;
+    color: white;
+    padding: 15px;
+}

@@ -1,0 +1,63 @@
+
+body {
+    background-color: #101426;
+    color: white;
+    font-family: Arial;
+    margin: 0;
+}
+
+.header {
+    background-color: #202743;
+    text-align: center;
+    padding: 20px;
+}
+
+.header h1 {
+    color: #a78bfa;
+}
+
+.welcome {
+    background-color: #252d48;
+    text-align: center;
+    padding: 30px;
+    margin: 20px;
+}
+
+.games {
+    text-align: center;
+    padding: 20px;
+}
+
+.game {
+    background-color: #202743;
+    padding: 15px;
+    margin: 15px;
+}
+
+.game img {
+    width: 250px;
+    height: 150px;
+}
+
+.game h3 {
+    color: #a78bfa;
+}
+
+.community {
+    background-color: #252d48;
+    text-align: center;
+    padding: 25px;
+    margin: 20px;
+}
+
+.footer {
+    background-color: #202743;
+    text-align: center;
+    padding: 15px;
+}
+
+.game img {
+    width: 500px;
+    height: 300px;
+    margin: 5px;
+}

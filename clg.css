@@ -1,0 +1,56 @@
+body {
+    margin: 0;
+    font-family: Arial;
+    background-color: #f1f5f9;
+}
+
+.sidebar {
+    width: 180px;
+    height: 100vh;
+    background-color: #1e3a8a;
+    color: white;
+    padding: 20px;
+    position: fixed;
+}
+
+.sidebar p {
+    padding: 10px;
+    background-color: #334e9b;
+}
+
+.main {
+    margin-left: 240px;
+    padding: 20px;
+}
+
+.cards {
+    display: flex;
+    gap: 20px;
+}
+
+.card {
+    background-color: white;
+    padding: 15px;
+    width: 150px;
+    border-radius: 8px;
+}
+
+table {
+    width: 100%;
+    background-color: white;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 12px;
+    border: 1px solid #ddd;
+    text-align: left;
+}
+
+th {
+    background-color: #bfdbfe;
+}
+
+h1 {
+    color: #1e3a8a;
+}
